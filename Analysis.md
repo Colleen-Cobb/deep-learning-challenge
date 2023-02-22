@@ -1,4 +1,4 @@
-#Neural Network Model Report
+# Neural Network Model Report
 
 ### Overview:
 A second learning deep learning model was created to improve the accuracy of the initial model. This was achieved in the following ways: creating bins for the 'NAME' column, decreasing the number of hidden nodes for each layer, and decreasing the number of epochs to 10. 
